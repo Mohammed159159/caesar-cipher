@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Mohammed Hany\Desktop\Projects\caesar cipher\caesar cipher\main.c(38,17): warning C4098: 'encrypt': 'void' function returning a value
+C:\Users\Mohammed Hany\Desktop\Projects\caesar cipher\caesar cipher\main.c(42,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohammed Hany\Desktop\Projects\caesar cipher\caesar cipher\main.c(63,21): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Mohammed Hany\Desktop\Projects\caesar cipher\caesar cipher\main.c(76,17): warning C4098: 'decrypt': 'void' function returning a value
+C:\Users\Mohammed Hany\Desktop\Projects\caesar cipher\caesar cipher\main.c(80,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohammed Hany\Desktop\Projects\caesar cipher\caesar cipher\main.c(101,21): warning C4553: '==': result of expression not used; did you intend '='?
+  caesar cipher.vcxproj -> C:\Users\Mohammed Hany\Desktop\Projects\caesar cipher\Debug\caesar cipher.exe
